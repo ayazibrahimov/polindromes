@@ -1,5 +1,3 @@
-# polindromes
-
 # Palindrome Binary to Decimal Converter
 
 ## Overview
